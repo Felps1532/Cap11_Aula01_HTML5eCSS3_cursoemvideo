@@ -1,0 +1,5 @@
+- No parâmetro "type" da tag <source> indicamos o tipo de imagem que usamos. (Modulo 1, Capitulo 10)
+
+- No parâmetro "srcset" da tag <source> configuramos o nome da imagem que será carregada quando o tamanho indicado (no "media") for atingido.
+
+- No parâmetro "media" da tag <source> indicamos o tamanho máximo a ser considerado para carregar a imagem indicada no atributo "srcset".
